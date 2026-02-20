@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# outputs
+out/
+
+# sqlite db files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+*.iml
+
+# venv (if created)
+.venv/
